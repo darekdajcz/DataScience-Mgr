@@ -1,0 +1,76 @@
+product_id,product_category,product_subcategory,product_name
+1,Napoje,Coca-cola,Coca-cola 0.33 L
+2,Napoje,Coca-cola,Coca-cola 0.5 L
+3,Napoje,Coca-cola,Coca-cola 1.5 L
+4,Napoje,Coca-cola,Coca-cola 2.5 L
+5,Napoje,Woda,Żywiec Zdrój (niegazowana) 1.5 L
+6,Napoje,Woda,Żywiec Zdrój (gazowana) 1.5 L
+7,Napoje,Woda,Nałęczowianka (niegazowana) 1.5 L
+8,Napoje,Woda,Nałęczowianka (gazowana) 1.5 L
+9,Napoje,Woda,Muszynianka 1.5 L
+10,Napoje,Wódka,Żubrówka Biała 100 mL
+11,Napoje,Wódka,Żubrówka Biała 0.5 L
+12,Napoje,Wódka,Cytrynówka Lubelska 100 mL
+13,Napoje,Wódka,Cytrynówka Lubelska 250 mL
+14,Napoje,Wódka,Absolut Kurant 0.7 L
+15,Napoje,Wino,Medoc 2014
+16,Napoje,Wino,Rioja 2013
+17,Napoje,Wino,Tokaji Aszu 3 puttonyos
+18,Napoje,Wino,Bordeaux 2012
+19,Napoje,Wino,Panul 2014
+20,Napoje,Piwo,Tyskie (puszka) 0.5 L
+21,Napoje,Piwo,Tyskie (butelka) 0.5 L
+22,Napoje,Piwo,Carlsberg (puszka) 0.5 L
+23,Napoje,Piwo,Carlsberg (butelka) 0.5 L
+24,Napoje,Piwo,Łomża (butelka) 0.5 L
+25,Przetwory,Majonez,Majonez Hellmann's 0.25 KG
+26,Przetwory,Majonez,Majonez Hellmann's 0.5 KG
+27,Przetwory,Majonez,Majonez Kielecki 0.25 KG
+28,Przetwory,Majonez,Majonez Kielecki 0.5 KG
+29,Przetwory,Majonez,Majonez Heinz 0.25 KG
+30,Przetwory,Ketchup,Ketchup Heinz łagodny 0.25 KG
+31,Przetwory,Ketchup,Ketchup Heinz pikantny 0.25 KG
+32,Przetwory,Ketchup,Ketchup Pudliszki łagodny 0.25 KG
+33,Przetwory,Ketchup,Ketchup Pudliszki pikantny 0.25 KG
+34,Przetwory,Ketchup,Ketchup Pudliszki pikantny 0.5 KG
+35,Przetwory,Musztarda,Musztarda Dijon 0.1 KG
+36,Przetwory,Musztarda,Musztarda Heinz 0.25 KG
+37,Przetwory,Musztarda,Musztarda Heinz 0.5 KG
+38,Przetwory,Musztarda,Musztarda Colman's 0.25 KG
+39,Przetwory,Musztarda,Musztarda Colman's 0.5 KG
+40,Przetwory,Ogórki,Ogórki Konserwowe Krakus 0.5 KG
+41,Przetwory,Ogórki,Ogórki Konserwowe Krakus 1 KG
+42,Przetwory,Ogórki,Ogórki Konserwowe Rolnik 0.5 KG
+43,Przetwory,Ogórki,Ogórki Konserwowe Rolnik 1 KG
+44,Przetwory,Ogórki,Ogórki Konserwowe Ptak 0.5 KG
+45,Mięsa,Wędliny,Salami Paczkowane 0.2 KG
+46,Mięsa,Wędliny,Szynka Gotowana Paczkowana 0.2 KG
+47,Mięsa,Drób,Skrzydełka Kurczaka 0.25 KG
+48,Mięsa,Drób,Pierś Kacza 0.5 KG
+49,Mięsa,Wieprzowina,Polędwica Wieprzowa 0.5 KG
+50,Mięsa,Wieprzowina,Udziec Wieprzowy 0.5 KG
+51,Pieczywo,Chleb,Chelb Wiejski
+52,Pieczywo,Chleb,Chleb Włoski
+53,Pieczywo,Bułka,Kajzerka
+54,Pieczywo,Bułka,Ciabatka
+55,Pieczywo,Bagietka,Bagietka Francuska
+56,Nabiał,Twaróg,Piątnica Twaróg Wiejski 0.25 KG
+57,Nabiał,Śmietana,Piątnica Śmietana 12% 0.25 KG
+58,Nabiał,Śmietana,Piątnica Śmietana 18% 0.25 KG
+59,Kawa i herbata,Kawa,Davidoff 0.5 KG
+60,Kawa i herbata,Herbata,Lipton 50 saszetek
+61,Inne,Papierosy,Marlboro Red
+62,Inne,Papierosy,Marlboro Gold
+63,Inne,Papierosy,Davidoff Gold
+64,Inne,Papierosy,Davidoff Gold Slim
+65,Inne,Papierosy,Sporty
+66,Inne,Leki,Aspiryna 10 saszetek
+67,Inne,Leki,Ibuprom 10 tabletek
+68,Inne,Leki,Pawulon 0.25 L
+69,Inne,Czekolada,Czekolada Milka
+70,Inne,Czekolada,Czekolada Wedel
+71,Inne,Czekolada,Czekolada Lindt
+72,Inne,Chipsy,Chipsy Cheetos Czosnkowe 0.1 KG
+73,Inne,Chipsy,Chipsy Lays Cebulowe 0.1 KG
+74,Inne,Lody,Lody Grycan Czekoladowe
+75,Inne,Lody,Lody Haagen Dazs
